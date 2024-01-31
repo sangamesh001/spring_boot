@@ -3,7 +3,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone git@github.com:sangamesh001/spring_boot.git
 cd yourproject
 
 #Build the Docker image
